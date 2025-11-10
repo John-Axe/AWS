@@ -16,7 +16,7 @@ The lab consists of configuring a Network Firewall on AWS. With components such 
 
 <p align="center">
 What final project looks like: <br/>
-<img src="https://imgur.com/a/GCqbjLY.png" height="80%" width="80%" alt=""/>
+![Screenshot.](https://imgur.com/a/GCqbjLY)
 <br />
 <br />
 <b>Steps will be posted - TBD<b/>
