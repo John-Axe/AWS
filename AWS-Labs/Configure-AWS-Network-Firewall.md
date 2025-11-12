@@ -1,7 +1,7 @@
 <h1>Configure an AWS Network Firewall</h1>
 
 <h2>Description</h2>
-The lab consists of configuring a Network Firewall on AWS. With components such as...
+The lab consists of configuring a Network Firewall on AWS. It includes components such as Virtual Private Network (VPC), Subnets, Route tables, Security Groups, Firewall, and much more.
 <br />
 
 <h2>Languages and Utilities Used</h2>
