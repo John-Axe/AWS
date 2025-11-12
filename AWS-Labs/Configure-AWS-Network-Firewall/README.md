@@ -12,7 +12,7 @@ The lab consists of configuring a Network Firewall on AWS. It includes component
 
 - <b>Amazon Web Services</b>
 
-<h2>Project Walk-through:</h2>
+<h2>Project Walk-Through:</h2>
 
 
 ![Image](https://github.com/John-Axe/AWS/blob/d39f397536cd19ae2a34ae6037a1a199221b6d5c/AWS-Labs/Configure-AWS-Network-Firewall/Images%20Library/AWS-Net-Firewall%20Map.png)
